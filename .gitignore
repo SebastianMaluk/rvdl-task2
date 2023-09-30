@@ -130,3 +130,4 @@ valid_known.txt
 valid_unknown.txt
 model.weights.h5
 history.json
+sketchy_classes.json
