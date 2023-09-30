@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flake8 = "*"
+tensorflow = "*"
+tensorflow-metal = "*"
+ipykernel = "*"
+scikit-image = "*"
+matplotlib = "*"
+pandas = "*"
+numpy = "*"
+black = "*"
+tensorflow-datasets = "*"
+tensorflow-addons = "*"
+jupyter = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

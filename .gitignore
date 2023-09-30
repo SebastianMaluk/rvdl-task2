@@ -122,3 +122,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+rendered_256x256
+.DS_Store
+train.txt
+valid_known.txt
+valid_unknown.txt
+model.weights.h5
+history.json
